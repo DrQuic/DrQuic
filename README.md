@@ -12,9 +12,11 @@
     </a>
   </div>
 </div>
-<div align="center">
- <h2>Languages</h2>
-    <img src="https://skillicons.dev/icons?i=c,go,py,linux,bash,postgres,git,kubernetes,docker,neovim,zig,nginx&perline=6" />
+<div>
+  <h2>Languages</h2>
+  <div align="center">
+      <img src="https://skillicons.dev/icons?i=c,go,py,linux,bash,postgres,git,kubernetes,docker,neovim,zig,nginx&perline=6" />
+  </div>
 </div>
 </br>
 <div align="center">
