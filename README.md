@@ -11,11 +11,20 @@
     </a>
   </div>
 </div>
-</br>
 <div align="center">
  <h2 align="center">Languages</h2>
-    <img src="https://skillicons.dev/icons?i=c,go,py,linux,bash,postgres,git,kubernetes,docker,neovim,terminal,zig&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,go,py,linux,bash,postgres,git,kubernetes,docker,neovim,terminal,zig&perline=6" />
 </div>
 </br>
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrQuic)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrQuic)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrQuic)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrQuic&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
