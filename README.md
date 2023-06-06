@@ -1,8 +1,11 @@
 ### Hi there 
 
-<div align="center">
- <h2 align="center">Languages</h2>
-    <img src="https://skillicons.dev/icons?i=c,go,py,linux,bash,postgres,git,kubernetes,docker,neovim,terminal,zig&perline=11" />
+<div>
+  <h2>Social media</h2>
+  <div style="display:flex;justify-content:center;align-items:center;width:100%;">
+     <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
+     <img src="https://skillicons.dev/icons?i=twitter&perline=1" />
+  </div>
 </div>
 </br>
 <div align="center">
