@@ -1,4 +1,4 @@
-### Hello! 👋 I'm a 24-year-old software enthusiast who enjoys diving deep into C, Go, and Zig. 
+### Hello! software enthusiast who enjoys diving deep into C, Go, and Zig. 
 ### I have a passion for unraveling the mysteries of data structures and algorithms, and there's a special thrill in crafting unique projects out of thin air. Take a look at my work and let's connect!
 
 <div>
