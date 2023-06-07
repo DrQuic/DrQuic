@@ -13,7 +13,7 @@
   </div>
 </div>
 <div>
-  <h2>Languages</h2>
+  <h2>Technologies I like</h2>
   <div>
       <img src="https://skillicons.dev/icons?i=c,go,py,zig,linux,bash,postgres,git,kubernetes,docker,neovim,nginx&perline=6" />
   </div>
