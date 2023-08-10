@@ -15,7 +15,7 @@
 <div>
   <h2>Technologies I like</h2>
   <div>
-      <img src="https://skillicons.dev/icons?i=c,go,py,zig,linux,bash,postgres,git,kubernetes,docker,neovim,nginx&perline=6" />
+      <img src="https://skillicons.dev/icons?i=c,go,py,linux,bash,postgres,git,kubernetes,docker,nginx&perline=6" />
   </div>
 </div>
 </br>
