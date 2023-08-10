@@ -1,4 +1,4 @@
-### Hello! I am a software enthusiast who enjoys diving deep into Python, C, Go. 
+### Hello! I am a software enthusiast who enjoys diving deep into Python, C and Go. 
 ### I have a passion for unraveling the mysteries of data structures and algorithms, and there's a special thrill in crafting unique projects out of thin air. Take a look at my work and let's connect!
 
 <div>
