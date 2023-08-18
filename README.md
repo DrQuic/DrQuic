@@ -3,7 +3,7 @@
 
 <div>
   <h2>Social media</h2>
-  <div>
+  <div align="center">
     <a href="https://www.linkedin.com/in/ar073/" target="_blank">
      <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
     </a>
