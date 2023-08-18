@@ -1,9 +1,9 @@
 ### Hello! I am a software enthusiast who enjoys diving deep into Python, C and Go. 
 ### I have a passion for unraveling the mysteries of data structures and algorithms, and there's a special thrill in crafting unique projects out of thin air. Take a look at my work and let's connect!
 
-<div>
+<div align="center">>
   <h2>Social media</h2>
-  <div align="center">
+  <div>
     <a href="https://www.linkedin.com/in/ar073/" target="_blank">
      <img src="https://skillicons.dev/icons?i=linkedin&perline=1" />
     </a>
