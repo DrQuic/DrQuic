@@ -13,16 +13,20 @@
   </div>
 </div>
 <div>
-  <h2>Technologies I like</h2>
-  <div>
-      <img src="https://skillicons.dev/icons?i=c,go,py,linux,bash,postgres,git,kubernetes,docker,nginx&perline=6" />
-  </div>
+<div align="center">
+    <h2 align="center">Skills</h2>
+    <img src="https://skillicons.dev/icons?i=c,go,python,bash,ts,nodejs,docker,mongodb,redis,postgres,jenkins,rabbitmq,kafka,kubernetes,linux,git,nginx&perline=5" />
 </div>
 </br>
 <div>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrQuic)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrQuic&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DrQuic&show_icons=true&theme=tokyonight" />
+  </div>
+
+  </br>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DrQuic&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&locale=en" />
+  </div>
+
 </div>
